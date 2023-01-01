@@ -22,8 +22,8 @@ title: Kensuke Yamamoto's Page
 email: kensukey@icepp.s.u-tokyo.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
   ICEPP, The University of Tokyo
-baseurl: "/~kensukey" # the subpath of your site, e.g. /blog
-url: "https://www.icepp.s.u-tokyo.ac.jp" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
