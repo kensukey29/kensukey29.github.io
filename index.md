@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+- [CV](cv/)
+- [Research](research/)
